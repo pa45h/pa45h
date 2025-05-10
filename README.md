@@ -20,34 +20,58 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+      <img width=200 style="border-radius:50%" src="https://avatars.githubusercontent.com/pa45h"/>
+    </div>
+    <div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=pa45h&icon=5&color=6"/>
+  </div>
+    
 
-<p align="left">
-<a href="https://twitter.com/0a45h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0a45h" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/parth-katariya-814a58284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-katariya-814a58284/" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/22446774/parth-katariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22446774/parth-katariya" height="30" width="40"/></a>
-<a href="https://www.instagram.com/_pa45h_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pa45h_/" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/profile/parth_katariya87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/parth_katariya87" height="30" width="40"/></a>
-<a href="https://leetcode.com/user1798qf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user1798qf/" height="30" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/parthkatariya87/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/parthkatariya87/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pa45h" height="30" width="40" /></a>
-</p>
+## About Me💫
 
-<img align="right" width="300" src="https://github.com/pa45h/pa45h/blob/main/GitHubGif.gif">
+👋 Hii, I'm Parth Katariya , a Fullstack-engineer from India.<br>  💻 I'm currently Working on My Full-Stack-Journey!<br>  👯 I'm looking to collaborate on Real World Project..<br>  💬 Ask me about MERN, JAVA, DSA..<br>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## Tech Stack💻 
 
-![](https://github-readme-stats.vercel.app/api?username=pa45h&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+#### Languages
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pa45h&theme=radical&hide_border=false)<br/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pa45h&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### Databases & ORM
 
-[![](https://visitcount.itsvg.in/api?id=pa45h&icon=0&color=0)](https://visitcount.itsvg.in)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Hosting
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+#### Design
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+#### Others
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    
+## Top Contributed Repo🔝
+
+![](https://github-contributor-stats.vercel.app/api?username=pa45h&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+    
+
+##  GitHub Stats📊
+    
+![](https://github-readme-streak-stats.herokuapp.com?theme=transparent&user=pa45h)
+    
+
+![](https://github-readme-stats.vercel.app/api?username=pa45h&theme=transparent)
+    
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pa45h&theme=transparent&layout=compact)
+    
+
+## Socials🌐 
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/0a45h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parthkatariya/) [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/https://leetcode.com/u/pa45h//) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pa45h_)
+
+    
