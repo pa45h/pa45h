@@ -18,20 +18,6 @@
 
 - ⚡ Fun fact **I'm not just passionate about coding; I'm also a quick learner.**
 
-
-
-<div align="center">
-      <img width=200 style="border-radius:50%" src="https://avatars.githubusercontent.com/pa45h"/>
-    </div>
-    <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=pa45h&icon=5&color=6"/>
-  </div>
-    
-
-## About Me💫
-
-👋 Hii, I'm Parth Katariya , a Fullstack-engineer from India.<br>  💻 I'm currently Working on My Full-Stack-Journey!<br>  👯 I'm looking to collaborate on Real World Project..<br>  💬 Ask me about MERN, JAVA, DSA..<br>  
-
 ## Tech Stack💻 
 
 #### Languages
