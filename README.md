@@ -47,4 +47,4 @@
 </table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pa45h&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=pa45h&abbreviated=true&color=blue&style=plastic)
