@@ -5,7 +5,11 @@
 <h3 align="center">A passionate Computer Engineering Student, Excited to dive into the world of technology, eager to learn, innovate, and contribute..</h3>
 
 # 💫 About Me:
-🔭 I’m currently building secure and scalable full-stack applications using the MERN stack and Next.js.<br>🌱 I’m currently learning Next.js to build server-side rendered applications, and diving deeper into advanced Data Structures & Algorithms.<br>👯 I’m looking to collaborate on open-source projects that solve real-world problems.<br>💬 Ask me about: C, Java, Python, HTML, CSS, JavaScript, Tailwind, React.js, Node.js, Express.js, MongoDB, Next.js, Django, Spring Boot, DSA, DBMS, OS, CN, OOP, AI-ML, Data-Science and More...<br>⚡ Fun fact: My passion for learning means I can go from zero to building a functional prototype in a new technology over a weekend.
+🔭 I’m currently building secure and scalable full-stack applications using the MERN stack and Next.js.<br>
+🌱 I’m currently learning Next.js to build server-side rendered applications, and diving deeper into advanced Data Structures & Algorithms.<br>
+👯 I’m looking to collaborate on open-source projects that solve real-world problems.<br>
+💬 Ask me about: C, Java, Python, HTML, CSS, JavaScript, Tailwind, React.js, Node.js, Express.js, MongoDB, Next.js, Django, Spring Boot, DSA, DBMS, OS, CN, OOP, AI-ML, Data-Science and More...<br>
+⚡ Fun fact: My passion for learning means I can go from zero to building a functional prototype in a new technology over a weekend.
 
 
 ## 🌐 Socials:
