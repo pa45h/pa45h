@@ -35,13 +35,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pa45h">
-        <img src="https://github-contributor-stats.vercel.app/api?username=pa45h&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
