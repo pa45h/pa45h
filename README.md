@@ -31,11 +31,6 @@
   <tr>
     <td align="center">
       <a href="https://github.com/pa45h">
-        <img src="https://github-readme-stats.vercel.app/api?username=pa45h&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pa45h">
         <img src="https://nirzak-streak-stats.vercel.app/?user=pa45h&theme=dark&hide_border=false" />
       </a>
     </td>
@@ -44,11 +39,6 @@
     <td align="center">
       <a href="https://github.com/pa45h">
         <img src="https://github-contributor-stats.vercel.app/api?username=pa45h&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pa45h">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa45h&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
       </a>
     </td>
   </tr>
