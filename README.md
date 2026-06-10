@@ -5,7 +5,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Full+Stack+%26+Backend+Specialist;Spring+Boot+%7C+MERN+%7C+.NET+%7C+Microservices;REST+APIs+%7C+Redis+%7C+Docker+%7C+PostgreSQL;260%2B+LeetCode+Problems+%F0%9F%A7%A9+%7C+AWS+Certified+%E2%98%81%EF%B8%8F;CGPA+8.48%2F10+%F0%9F%8E%93+%7C+Always+building+something+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
+
 <br/><br/>
+
 <p align="center">
   <a href="https://linkedin.com/in/parthkatariya" target="_blank" title="LinkedIn">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -22,6 +24,7 @@
 </p>
 
 <br/>
+
 <a href="https://drive.google.com/file/d/1bbjdjdwJ9ZUnLcqdQ_MVST-5Hi8o3h7z/view?usp=sharing" target="_blank" title="Resume">
   <img src="https://img.shields.io/badge/Resume-View%20%2F%20Download-89b4fa?style=for-the-badge&logo=googledrive&logoColor=white" height="35" style="border-radius:6px;"/>
 </a>
@@ -73,9 +76,10 @@ languages:
 
 ## 💼 Experience
 
-<table width="100%">
+<div align="center">
+<table width="80%">
   <tr>
-    <td>
+    <td align="left">
       <strong>Software Engineering Intern</strong> &nbsp;·&nbsp; Xorvest<br/>
       <sub>Crypto Exchange & Algorithmic Trading &nbsp;|&nbsp; May 2026 – Present</sub><br/><br/>
       • Built cryptocurrency exchange REST API integrations & algorithmic trading modules in ASP.NET Core<br/>
@@ -84,6 +88,7 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -91,6 +96,7 @@ languages:
 
 ### 〈 Languages 〉
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -119,9 +125,11 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 ### 〈 Frontend 〉
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -150,9 +158,11 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 ### 〈 Backend 〉
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -177,9 +187,11 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 ### 〈 Databases 〉
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -198,11 +210,17 @@ languages:
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
       <br/><sub><b>Redis</b></sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/>
+      <br/><sub><b>Prisma</b></sub>
+    </td>
   </tr>
 </table>
+</div>
 
 ### 〈 DevOps & Tools 〉
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -235,6 +253,7 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -242,20 +261,21 @@ languages:
 
 ### 🎓 EduStream &nbsp;·&nbsp; Full-Stack EdTech Platform
 
-<p align="left">
-  <a href="https://edustream-pa45h.vercel.app" target="_blank" title="Live demo">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-89B4FA?style=for-the-badge&logo=vercel&logoColor=white"
-         alt="Live Demo" style="height:18px;border-radius:6px;vertical-align:middle;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pa45h/EduStream" target="_blank" title="Source code">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
-         alt="Source Code" style="height:18px;border-radius:6px;vertical-align:middle;">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://edustream-pa45h.vercel.app" target="_blank" title="Live demo">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-89B4FA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/pa45h/EduStream" target="_blank" title="Source code">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+</div>
 
 > Role-based EdTech platform (Admin · Instructor · Student) with JWT auth, Google OAuth 2.0, OTP verification, Razorpay payments, Cloudinary media & **40+ REST APIs** averaging **< 200ms** response time.
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="80">
@@ -280,20 +300,23 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
 ### 🛡️ GuardRail &nbsp;·&nbsp; Rate-Limiting Microservice
 
-<p align="left">
-  <a href="https://github.com/pa45h/guardrail-api" target="_blank" title="Source code">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
-         alt="Source Code" style="height:18px;border-radius:6px;vertical-align:middle;">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/pa45h/guardrail-api" target="_blank" title="Source code">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+</div>
 
 > Production-grade Spring Boot microservice preventing bot abuse. Enforces 100-reply caps & 10-min cooldowns via atomic Redis ops. **Zero failures under 200 concurrent requests.** Fully stateless design.
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="80">
@@ -318,25 +341,27 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
 ### 🤖 GenResume &nbsp;·&nbsp; AI-Powered Resume Builder
 
-<p align="left">
-  <a href="https://genresume-pa45h.vercel.app/" target="_blank" title="Live demo">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-89B4FA?style=for-the-badge&logo=vercel&logoColor=white"
-         alt="Live Demo" style="height:18px;border-radius:6px;vertical-align:middle;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pa45h/GenResume" target="_blank" title="Source code">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
-         alt="Source Code" style="height:18px;border-radius:6px;vertical-align:middle;">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://genresume-pa45h.vercel.app/" target="_blank" title="Live demo">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-89B4FA?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/pa45h/GenResume" target="_blank" title="Source code">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+</div>
 
 > LLM-powered resume builder generating tailored professional summaries from structured inputs. Features Clerk auth, real-time customization, PDF export & shareable links.
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="80">
@@ -357,6 +382,7 @@ languages:
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
@@ -366,7 +392,7 @@ languages:
 <table width="80%">
   <tr>
     <td align="center"><strong>Project</strong></td>
-    <td align="left"><strong>Description</strong></td>
+    <td align="center"><strong>Description</strong></td>
     <td align="center"><strong>Stack</strong></td>
   </tr>
   <tr>
@@ -419,10 +445,8 @@ languages:
 <div align="center">
 
 <a href="https://leetcode.com/u/pa45h" target="_blank" title="LeetCode Profile">
-    <img src="https://leetcard.jacoblin.cool/pa45h?theme=dark&radius=12&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/pa45h?theme=dark&radius=12&ext=heatmap" alt="LeetCode Stats"/>
 </a>
-
-<br/>
 
 </div>
 
@@ -433,11 +457,16 @@ languages:
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pa45h&show_icons=true&theme=dark&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&border_radius=12" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=pa45h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89b4fa&icon_color=89dceb&text_color=cdd6f4&border_radius=12&include_all_commits=true&count_private=true"/>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa45h&layout=compact&theme=dark&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&border_radius=12&langs_count=8" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa45h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&border_radius=12&langs_count=8"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pa45h&theme=tokyonight&hide_border=true&background=0d1117&stroke=89b4fa&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4&sideLabels=cdd6f4&currStreakNum=ffffff&sideNums=ffffff&dates=6c7086&border_radius=12"/>
       </td>
     </tr>
   </table>
@@ -449,13 +478,14 @@ languages:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pa45h/pa45h/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pa45h/pa45h/output/snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
 ---
 
 ## 🎖️ Achievements & Leadership
+
 <div align="center">
 <table width="80%">
   <tr>
@@ -484,24 +514,26 @@ languages:
   </tr>
 </table>
 </div>
+
 <br/>
 
-☁️ &nbsp;**AWS Cloud Foundations Certified** &nbsp;·&nbsp; 🏅 &nbsp;**Top 5% in Gujarat HSC — 95.85 percentile** &nbsp;·&nbsp; 🧩 &nbsp;**260+ LeetCode problems solved**
+<div align="center">
+
+☁️ &nbsp;<strong>AWS Cloud Foundations Certified</strong> &nbsp;·&nbsp; 🏅 &nbsp;<strong>Top 5% in Gujarat HSC — 95.85 percentile</strong> &nbsp;·&nbsp; 🧩 &nbsp;<strong>260+ LeetCode problems solved</strong>
+
+</div>
 
 ---
 
 <div align="center">
 
-_📬 &nbsp; parth.katariya87@gmail.com &nbsp;·&nbsp; Always building something interesting._
+<em>📬 &nbsp; parth.katariya87@gmail.com &nbsp;·&nbsp; Always building something interesting.</em>
 
-<div align="center">
-  <a href="https://github.com/pa45h" target="_blank" title="Profile Views">
-    <span style="display:inline-block;background:#0d1117;padding:4px;border-radius:10px;box-shadow:0 6px 14px rgba(0,0,0,0.6);">
-      <img src="https://komarev.com/ghpvc/?username=pa45h&label=Profile+Views&color=89b4fa&style=for-the-badge"
-           alt="Profile Views" style="height:28px;border-radius:6px;vertical-align:middle;"display:block;">
-    </span>
-  </a>
-</div>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pa45h&label=Profile+Views&color=89b4fa&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
