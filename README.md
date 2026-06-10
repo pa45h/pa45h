@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Full+Stack+%26+Backend+Specialist;Spring+Boot+%7C+MERN+%7C+.NET+%7C+Microservices;REST+APIs+%7C+Redis+%7C+Docker+%7C+PostgreSQL;260%2B+LeetCode+Problems+%F0%9F%A7%A9+%7C+AWS+Certified+%E2%98%81%EF%B8%8F;CGPA+8.48%2F10+%F0%9F%8E%93+%7C+Always+building+something+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/parthkatariya" target="_blank" title="LinkedIn">
@@ -26,7 +26,7 @@
 <br/>
 
 <a href="https://drive.google.com/file/d/1bbjdjdwJ9ZUnLcqdQ_MVST-5Hi8o3h7z/view?usp=sharing" target="_blank" title="Resume">
-  <img src="https://img.shields.io/badge/Resume-View%20%2F%20Download-89b4fa?style=for-the-badge&logo=googledrive&logoColor=white" height="35" style="border-radius:6px;"/>
+  <img src="https://img.shields.io/badge/Resume-View%20%2F%20Download-559955?style=for-the-badge&logo=googledrive&logoColor=white" height="35" style="border-radius:6px;"/>
 </a>
 
 <br/>
@@ -529,11 +529,9 @@ languages:
 
 <em>📬 &nbsp; parth.katariya87@gmail.com &nbsp;·&nbsp; Always building something interesting.</em>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=pa45h&label=Profile+Views&color=89b4fa&style=for-the-badge" alt="Profile Views"/>
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
