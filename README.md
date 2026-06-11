@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parth%20Katariya&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20(%20Spring%20Boot%20%7C%20MERN%20%7C%20.NET%20)%20%E2%80%A2%20DSA&descAlignY=58&descColor=cdd6f4&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parth%20Katariya&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20(%20Spring%20Boot%20%7C%20MERN%20)%20%E2%80%A2%20DSA&descAlignY=58&descColor=cdd6f4&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Full+Stack+%26+Backend+Specialist;Spring+Boot+%7C+MERN+%7C+.NET+%7C+Microservices;REST+APIs+%7C+Redis+%7C+Docker+%7C+PostgreSQL;260%2B+LeetCode+Problems+%F0%9F%A7%A9+%7C+AWS+Certified+%E2%98%81%EF%B8%8F;CGPA+8.48%2F10+%F0%9F%8E%93+%7C+Always+building+something+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=89B4FA&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Full+Stack+%26+Backend+Specialist;Spring+Boot+%7C+MERN+%7C+Microservices;REST+APIs+%7C+Redis+%7C+Docker+%7C+PostgreSQL;260%2B+LeetCode+Problems+%F0%9F%A7%A9+%7C+AWS+Certified+%E2%98%81%EF%B8%8F;CGPA+8.48%2F10+%F0%9F%8E%93+%7C+Always+building+something+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -39,7 +39,7 @@
 
 ```yaml
 name: Parth Katariya
-role: Software Engineer — Full Stack (Spring Boot | MERN | .NET)
+role: Software Engineer — Full Stack (Spring Boot | MERN)
 education: B.E. Computer Engineering @ SVIT, GTU (2023 – 2027)
 cgpa: 8.48 / 10
 
@@ -47,10 +47,10 @@ current:
   company: Xorvest — Crypto Exchange & Algorithmic Trading
   role: Software Engineering Intern
   duration: May 2026 - Present
-  stack: [ASP.NET Core, C#, Microservices, REST APIs]
+  stack: [Spring Boot, Java, Microservices, REST APIs]
 
 strengths:
-  - Full Stack Development (Spring Boot | MERN | .NET)
+  - Full Stack Development (Spring Boot | MERN)
   - REST API Engineering · JWT / OAuth 2.0 · Rate Limiting
   - Authentication & Authorization · Spring Security
   - Microservices Architecture & Distributed Systems
@@ -82,7 +82,7 @@ languages:
     <td align="left">
       <strong>Software Engineering Intern</strong> &nbsp;·&nbsp; Xorvest<br/>
       <sub>Crypto Exchange & Algorithmic Trading &nbsp;|&nbsp; May 2026 – Present</sub><br/><br/>
-      • Built cryptocurrency exchange REST API integrations & algorithmic trading modules in ASP.NET Core<br/>
+      • Built cryptocurrency exchange REST API integrations & algorithmic trading modules useing Spring Boot<br/>
       • Engineered secure authentication flows, order execution pipelines & automated trade execution services<br/>
       • Implemented structured logging & centralized exception handling across distributed microservices
     </td>
@@ -170,20 +170,16 @@ languages:
       <br/><sub><b>Spring Boot</b></sub>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate"/>
+      <br/><sub><b>Hibernate</b></sub>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
       <br/><sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/>
       <br/><sub><b>Express.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET Core"/>
-      <br/><sub><b>.NET Core</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate"/>
-      <br/><sub><b>Hibernate</b></sub>
     </td>
   </tr>
 </table>
@@ -209,10 +205,6 @@ languages:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
       <br/><sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/>
-      <br/><sub><b>Prisma</b></sub>
     </td>
   </tr>
 </table>
@@ -497,7 +489,7 @@ languages:
   <tr>
     <td align="center">💼</td>
     <td align="left">Software Engineering Intern</td>
-    <td align="left">Xorvest — Crypto & Algo Trading</td>
+    <td align="left">Xorvest — Crypto Exchange & Algo Trading</td>
     <td align="left">May 2026 – Present</td>
   </tr>
   <tr>
